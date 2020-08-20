@@ -1,4 +1,4 @@
-## Udemy Course -
+## Course -
 
 Data Structures
 
